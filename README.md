@@ -4,9 +4,9 @@ pkg install git
 
 pkg install python
 
-pkg install mechanize
+pip install mechanize
 
-pkg install requests
+pip install requests
 
 pkg install update
 
